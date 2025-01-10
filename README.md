@@ -1,6 +1,9 @@
-# React + Vite
+<<<<<<< HEAD
+# JoblistingPortalJFF
+A basic job listing portal just for fun
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+This project uses React + Vite, which provides a minimal setup to get React working with HMR and ESLint rules.
 
 Currently, two official plugins are available:
 
