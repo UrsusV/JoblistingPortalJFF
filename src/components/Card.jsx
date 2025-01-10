@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function Card({children, bg = 'bg-gray-100'}) {
   return (

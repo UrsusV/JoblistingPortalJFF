@@ -3,14 +3,13 @@ import logo from 'D:/Programming/react-crash2025/src/assets/images/logo.png';
 
 function Navbar() {
   return (
-    <div>
-        <nav className="bg-indigo-700 border-b border-indigo-500">
+  <div>
+    <nav className="bg-indigo-700 border-b border-indigo-500">
       <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div className="flex h-20 items-center justify-between">
           <div
             className="flex flex-1 items-center justify-center md:items-stretch md:justify-start"
           >
-            
             <a className="flex flex-shrink-0 items-center mr-4" href="/index.html">
               <img
                 className="h-10 w-auto"
@@ -40,7 +39,7 @@ function Navbar() {
         </div>
       </div>
     </nav>
-    </div>
+  </div>
   )
 };
 

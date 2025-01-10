@@ -36,6 +36,6 @@ function HomeCards() {
     </section>
     </div>
   )
-}
+};
 
-export default HomeCards
+export default HomeCards;

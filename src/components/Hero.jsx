@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Hero = ({title, subtitle}) => {
   return (
@@ -21,7 +21,7 @@ const Hero = ({title, subtitle}) => {
         </section>
     </div>
   )
-}
+};
 
 export default Hero;
 //if you use props then you have to invoke the subprops in the main component like this: props.title or props.subtitle

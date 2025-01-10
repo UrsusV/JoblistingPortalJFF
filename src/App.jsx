@@ -13,11 +13,7 @@ function App() {
       a job that fits your skill set'/>
       <HomeCards/>
       <JobListings/>
-    
-    
 
-    
-  
     <section className="m-auto max-w-lg my-10 px-6">
       <a
         href="jobs.html"
