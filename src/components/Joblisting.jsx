@@ -37,3 +37,5 @@ const Joblisting = ({ job }) => {
 };
 
 export default Joblisting;
+
+//here job map is doing the loop for every jop object in the jobs array and passing it to the Joblisting component as a prop.
